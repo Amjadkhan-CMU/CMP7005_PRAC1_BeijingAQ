@@ -1,8 +1,11 @@
 # 🌏 Beijing Air Quality Analysis — CMP7005 PRAC1
 
-**Student ID:** st20341331
+**Student ID:** st20341331 
+
 **Module:** CMP7005 — Programming for Data Analysis 
+
 **Module Leader:** Dr. Amrita Prasad
+
 **Assessment:** PRAC1 — From Data to Application Development (70%)
 
 ---
