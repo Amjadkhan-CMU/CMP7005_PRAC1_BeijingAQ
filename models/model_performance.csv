@@ -1,0 +1,4 @@
+Model,MAE (µg/m³),RMSE (µg/m³),R²
+Linear Regression (Baseline),17.484,26.785,0.898
+Random Forest (Initial),12.525,22.954,0.925
+Random Forest (Optimised),12.332,22.664,0.927
