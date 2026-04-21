@@ -14,15 +14,14 @@
 
 This project works through a complete data science pipeline using hourly 
 air quality data collected from four monitoring stations in Beijing, 
-covering the period March 2013 to February 2017.
+covering the period March 2013 to February 2017. The work is broken 
+down into five tasks:
 
-| Task | Description | Weight |
-|------|-------------|--------|
-| **Task 1** | Data Selection and Handling | 5% |
-| **Task 2** | Exploratory Data Analysis with 25 visualisations | 50% |
-| **Task 3** | Random Forest PM2.5 Prediction Model | 15% |
-| **Task 4** | Streamlit Interactive Application | 20% |
-| **Task 5** | GitHub Version Control | 10% |
+- **Task 1** — Loading and merging the four station datasets into one
+- **Task 2** — Exploring and analysing the data through charts and statistics
+- **Task 3** — Building a Random Forest model to predict PM2.5 levels
+- **Task 4** — Developing an interactive Streamlit web application
+- **Task 5** — Managing the project using GitHub version control
 
 ---
 
