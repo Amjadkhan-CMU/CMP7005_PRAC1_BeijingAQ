@@ -111,8 +111,37 @@ prediction, with PM10 and CO coming out as the strongest predictors
 
 ## References
 
-- Brauer et al. (2021) *NEJM*, 384(4).
-- Li et al. (2024) *Atmospheric Environment*, 310.
-- Xu and Zhang (2004) *Atmospheric Environment*, 38(26).
-- Xu and Zhang (2020) *Science of The Total Environment*, 739.
-- Yao et al. (2015) *Atmospheric Research*, 167.
+Batterman, S. et al. (2016) 'Air pollution and health impacts in
+Beijing', *Environmental Health Perspectives*, 124(6), pp. 961–970.
+
+Brauer, M. et al. (2021) 'Ambient particulate matter air pollution
+and cardiovascular disease', *New England Journal of Medicine*,
+384(4), pp. 388–390.
+
+Li, X. et al. (2019) 'Long-term exposure to PM2.5 and lung cancer
+risk', *International Journal of Environmental Research and Public
+Health*, 16(14), p. 2477.
+
+Li, Y. et al. (2024) 'Recent improvements in Beijing air quality:
+trends and contributing drivers', *Atmospheric Environment*,
+310, p. 119965.
+
+Lim, S. et al. (2020) 'A comparative risk assessment of the burden
+of disease attributable to air pollution', *The Lancet*, 380(9849),
+pp. 2224–2260.
+
+Sokhi, R. et al. (2022) 'A global observational analysis to
+understand changes in air quality during exceptionally low
+anthropogenic emission conditions', *Environment International*,
+157, p. 106818.
+
+Xu, J. and Zhang, Y. (2004) 'Spatial and temporal patterns of
+PM2.5 at multiple urban and suburban stations in Beijing',
+*Atmospheric Environment*, 38(26), pp. 4295–4306.
+
+Xu, J. and Zhang, Y. (2020) 'Air quality trends in Beijing over
+2013–2018', *Science of The Total Environment*, 739, p. 140032.
+
+Yao, L. et al. (2015) 'Characteristics of PM2.5 in Beijing: mass
+concentrations, chemical compositions, seasonal variations and
+sources', *Atmospheric Research*, 167, pp. 62–72.
