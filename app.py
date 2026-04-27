@@ -106,7 +106,7 @@ with st.sidebar:
 **Module:** CMP7005 \n
 **Module Leader:**  Dr. Amrita Prasad \n
 **Student ID:** {STUDENT_ID} \n
-**Student Name:** Amjad Hossain Khan**
+**Student Name:** Amjad Hossain Khan
 """)
 
 
