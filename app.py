@@ -104,7 +104,7 @@ with st.sidebar:
     st.markdown("---")
     st.markdown(f"""
 **Module:** CMP7005 \n
-**Module Leader:**  Dr. Amrita Prasad \n
+**Module Leader:**  Dr. Amrita Prasad \n 
 **Student ID:** {STUDENT_ID} \n
 **Student Name:** Amjad Hossain Khan
 """)
