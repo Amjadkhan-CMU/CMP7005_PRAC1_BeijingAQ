@@ -6,7 +6,7 @@
 
 **Module Leader:** Dr. Amrita Prasad
 
-**Assessment:** PRAC1 — From Data to Application Development (70%)
+**Assessment:** PRAC1 — From Data to Application Development
 
 ---
 
