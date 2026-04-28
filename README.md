@@ -147,7 +147,8 @@ concentrations, chemical compositions, seasonal variations and
 sources', *Atmospheric Research*, 167, pp. 62–72.
 
 
-#**Challenges Faced During This Project**
+**Challenges Faced During This Project**
+
 So coming from a Mechanical Engineering background, this was only my second semester at university. I had used GitHub before and done some basic coding in my first semester but this was genuinely my first time doing proper data analysis. So I was not completely new to programming but working with a real world dataset with over 140,000 rows was a completely different experience to anything I had done before.
 
 **Working with Large Real World Data**
