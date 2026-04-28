@@ -145,3 +145,35 @@ Xu, J. and Zhang, Y. (2020) 'Air quality trends in Beijing over
 Yao, L. et al. (2015) 'Characteristics of PM2.5 in Beijing: mass
 concentrations, chemical compositions, seasonal variations and
 sources', *Atmospheric Research*, 167, pp. 62–72.
+
+
+#**Challenges Faced During This Project**
+So coming from a Mechanical Engineering background, this was only my second semester at university. I had used GitHub before and done some basic coding in my first semester but this was genuinely my first time doing proper data analysis. So I was not completely new to programming but working with a real world dataset with over 140,000 rows was a completely different experience to anything I had done before.
+
+**Working with Large Real World Data**
+
+In my first semester the coding was mostly small structured exercises where the data was already clean and ready to go. This project was the first time I actually had to deal with a proper messy real world dataset. Missing values, inconsistent formatting, multiple files that needed merging together. Figuring out how to handle all of that in a systematic way rather than just patching things one by one took a lot more thinking than I expected honestly.
+Understanding the Data Structure
+When I first opened the CSV files I saw that the date and time were split across four separate columns, year, month, day and hour. I had never built a datetime index from scratch before and it took me a while to understand why it even mattered for the time series analysis later and how to do it properly inside a reusable function.
+
+**Missing Values**
+
+This was something I had never really dealt with before. In engineering if a value is missing you just go back and measure it again. With a dataset this big that is just not possible. I had to figure out the difference between time based interpolation and forward fill and understand which one made more sense for pollutants versus meteorological variables. That took quite a bit of reading and trial and error before I actually felt confident with what I was doing.
+
+**Choosing the Right Visualisation**
+
+This was harder than I thought it would be. In engineering we mostly just use line graphs and bar charts. For this project I had to get my head around heatmaps, pairplots, sunburst charts and box plots and actually understand when each one adds value rather than just making the data look different. Getting the charts to tell a proper story took more effort than I expected.
+
+**Machine Learning**
+
+This was honestly the hardest part of the whole project for me. I had some basic statistics knowledge from my engineering background but machine learning concepts like train test splits, cross validation, hyperparameter tuning and feature importance were all new to me in a practical sense. I spent a lot of time understanding why Random Forest was a better fit than Linear Regression for this dataset before I felt comfortable enough to properly justify that decision in the notebook.
+
+**GitHub**
+
+I had used GitHub in my first semester but only for basic stuff like uploading files and making simple commits. This project was the first time I actually used it as part of a proper ongoing workflow, committing at different stages with meaningful messages. There were a few issues along the way, file size limits, authentication errors, conflicts between local and remote versions. Working through all of that gave me a much better understanding of version control than I had before.
+
+**Deploying the Streamlit App**
+
+Building the Streamlit app was something I actually really enjoyed once I got into it. But getting it deployed on Streamlit Cloud and making sure it could read the data and model files correctly was not straightforward at all. File path issues, missing dependencies, the trained model file being too large for GitHub. These are the kind of problems that never show up in tutorials but they come up all the time in real development work.
+
+Overall this was the most technically demanding thing I have done so far at university. Coming from mechanical engineering and doing data analysis properly for the first time, the learning curve at the start was steep. But working through each problem one by one gave me a level of practical programming and data science experience that I think is genuinely going to be useful going forward.
