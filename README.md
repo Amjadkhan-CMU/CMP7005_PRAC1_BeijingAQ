@@ -2,6 +2,8 @@
 
 **Student ID:** st20341331 
 
+**Student Name:** Amjad Hossain Khan
+
 **Module:** CMP7005 — Programming for Data Analysis 
 
 **Module Leader:** Dr. Amrita Prasad
